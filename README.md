@@ -4,4 +4,5 @@ Para rodar o servidor (API Http), coloque o seguinte comando no terminal:
 
 Para rodar o client (front-end), coloque o seguinte comando no terminal:
 
+<code>cd app</code>
 <code>npm run dev</code>
