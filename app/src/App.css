@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #fff;
+}
+h1{
+  color: #101010;
+}
+span{
+  color: #101010;
+}
+.btn-submit{
+  width: 100%;
+  background-color: #24FF00 !important;
+}
+.containerChat{
+  color: #101010;
+}

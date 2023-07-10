@@ -1,0 +1,28 @@
+{
+  "treinos": [
+    {
+      "nomeTreino": "Treino de Braço",
+      "tipoTreino": "Treino de Força",
+      "qntdExercicios": "4",
+      "id": 3
+    },
+    {
+      "nomeTreino": "Treino de Braço",
+      "tipoTreino": "Treino de Força",
+      "qntdExercicios": "4",
+      "id": 4
+    },
+    {
+      "nomeTreino": "Treino de Perna",
+      "tipoTreino": "Treino de Força",
+      "qntdExercicios": "87",
+      "id": 7
+    },
+    {
+      "nomeTreino": "Treino de Abdômen",
+      "tipoTreino": "Treino de Resistência",
+      "qntdExercicios": "10",
+      "id": 8
+    }
+  ]
+}
